@@ -7,3 +7,11 @@ R语言是非常强大的做统计分析和建模方面的开源软件，它有�
 
 [如何做到R和python的完美配合?](https://www.zhihu.com/question/38461788)
 
+　　常用的命令：
+
+　　*1. import rpy2.robjects as robjects    这个命令是导入 r对象
+
+　　*2. robjects.r("r_script") 可以执行r代码，比如 pi = robjects.r('pi') 就可以得到 R 中的PI（圆周率），返回的变量pi是一个向量，或者理解为python中        的列表，通过pi[0] 就可以取出圆周率的值。
+
+　　*3. robjects.r.source(“file.r”)可以执行r脚本文件。例子如下：robjects.r.source('plot_demo.r')
+
