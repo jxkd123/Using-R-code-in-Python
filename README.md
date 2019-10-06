@@ -5,3 +5,5 @@ R语言是非常强大的做统计分析和建模方面的开源软件，它有�
 
 [如何安装rpy2？](https://cloud.tencent.com/developer/article/1107306)
 
+[如何做到R和python的完美配合?](https://www.zhihu.com/question/38461788)
+
