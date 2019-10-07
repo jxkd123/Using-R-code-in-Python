@@ -14,4 +14,6 @@ R语言是非常强大的做统计分析和建模方面的开源软件，它有�
 　　*2. robjects.r("r_script") 可以执行r代码，比如 pi = robjects.r('pi') 就可以得到 R 中的PI（圆周率），返回的变量pi是一个向量，或者理解为python中        的列表，通过pi[0] 就可以取出圆周率的值。
 
 　　*3. robjects.r.source(“file.r”)可以执行r脚本文件。例子如下：robjects.r.source('plot_demo.r')
+  
+[Another Way to Access R from Python – PypeR](https://statcompute.wordpress.com/2012/11/29/another-way-to-access-r-from-python-pyper/)
 
