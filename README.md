@@ -18,3 +18,5 @@ R语言是非常强大的做统计分析和建模方面的开源软件，它有�
 *2.[Another Way to Access R from Python – PypeR](https://statcompute.wordpress.com/2012/11/29/another-way-to-access-r-from-python-pyper/)
 
 *3.[将python pandas DataFrame转换为R dataframe以与rpy2一起使用](https://codeday.me/bug/20190205/578792.html)
+
+ *4.[python调用R语言](https://blog.csdn.net/suzyu12345/article/details/50587267)
