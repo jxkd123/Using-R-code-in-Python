@@ -20,3 +20,5 @@ R语言是非常强大的做统计分析和建模方面的开源软件，它有�
 *3.[将python pandas DataFrame转换为R dataframe以与rpy2一起使用](https://codeday.me/bug/20190205/578792.html)
 
  *4.[python调用R语言](https://blog.csdn.net/suzyu12345/article/details/50587267)
+ 
+ *5.[R语言-包的下载、加载、更新、使用、卸载一条龙](https://blog.csdn.net/lovely_J/article/details/82085950)
